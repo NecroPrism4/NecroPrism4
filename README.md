@@ -4,8 +4,8 @@ I'm currently pursuing a degree in Computer Science, specializing in [your speci
 
 ## What I'm Working On
 
-- 🌱 I'm currently learning [Microservices arquitecture and technologies].
-- 💡 I'm exploring [Kubernetes and minikube].
+- 🌱 I'm currently learning [Microservices arquitecture and technologies](https://microservices.io/).
+- 💡 I'm exploring [Kubernetes and minikube](https://kubernetes.io/docs/tutorials/hello-minikube/).
 - 🚀 I'm working on [SISRSTP](https://github.com/SISRSTP).
 
 ## Get in Touch
