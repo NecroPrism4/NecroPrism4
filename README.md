@@ -1,6 +1,6 @@
 ## About Me
 
-I'm currently pursuing a degree in Computer Science, specializing in [your specific interests or focus]. Throughout my academic journey, I've gained hands-on experience in various programming languages, technologies, and development methodologies. I love tackling challenging problems and building innovative solutions that make a positive impact.
+I'm currently pursuing a degree in Computer Science, specializing in distributed systems. Throughout my academic journey, I've gained hands-on experience in various programming languages, technologies, and development methodologies. I love tackling challenging problems and building innovative solutions that make a positive impact.
 
 ## What I'm Working On
 
