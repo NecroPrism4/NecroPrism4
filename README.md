@@ -10,7 +10,7 @@ I'm currently pursuing a degree in Computer Science, specializing in [your speci
 
 ## Get in Touch
 
-- 📫 How to reach me: [Your Email](mailto:verdugo.darien22@gmail.com)
+- 📫 How to reach me: [verdugo.darien22@gmail.com](mailto:verdugo.darien22@gmail.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/necrozm4)
 - 😄 Pronouns: he/him
 
