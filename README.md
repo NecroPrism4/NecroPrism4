@@ -1,16 +1,21 @@
-### Hi there 👋
+## About Me
 
-<!--
-**NecroPrism4/NecroPrism4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing a degree in Computer Science, specializing in [your specific interests or focus]. Throughout my academic journey, I've gained hands-on experience in various programming languages, technologies, and development methodologies. I love tackling challenging problems and building innovative solutions that make a positive impact.
 
-Here are some ideas to get you started:
+## What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning [Microservices arquitecture and technologies].
+- 💡 I'm exploring [Kubernetes and minikube].
+- 🚀 I'm working on [SISRSTP](https://github.com/SISRSTP).
+
+## Get in Touch
+
+- 📫 How to reach me: [Your Email](mailto:verdugo.darien22@gmail.com)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/necrozm4)
+- 😄 Pronouns: he/him
+
+## Let's Collaborate!
+
+I'm always open to collaborating on interesting projects and exploring new opportunities. Feel free to reach out if you have any questions, ideas, or just want to chat!
+
+Happy coding! 🚀
