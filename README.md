@@ -12,9 +12,9 @@ I'm currently pursuing a degree in Computer Science, specializing in distributed
 <p>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="vue.js" src="https://img.shields.io/static/v1?label=Vue.js&amp;message=v2.6&amp;color=4FC08D&amp;style=flat-square&amp;logo=vue.js&amp;logoColor=ffffff" />
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&style=flat-square&logoColor=61DAFB" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
