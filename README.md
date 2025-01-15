@@ -6,7 +6,7 @@ I'm currently pursuing a degree in Computer Science, specializing in distributed
 
 - 🌱 I'm currently learning [Microservices arquitecture and technologies](https://microservices.io/).
 - 💡 I'm exploring [Kubernetes and minikube](https://kubernetes.io/docs/tutorials/hello-minikube/).
-- 🚀 I'm working on [SISRSTP](https://github.com/SISRSTP).
+
 
 <h4>Some tools I use</h3>
 <p>
